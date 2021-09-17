@@ -1,0 +1,32 @@
+@font-face { font-family: Determination; src: url('fonts/undertale-determination-menu.woff'); }
+@font-face { font-family: Deltarune; src: url('fonts/deltarune.ttf'); }
+@font-face { font-family: UndertaleFore; src: url('fonts/MonsterFriendFore.otf'); }
+
+* {
+	text-align: center !important;
+}
+body {
+	background-color: black;
+}
+p {
+	font-size: 200%;
+	font-family: Determination;
+	color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+h1 {
+	font-size: 750%;
+	font-family: Deltarune;
+	color: white;
+}
+h2 {
+	font-size: 300%;
+	font-family: UndertaleFore;
+	color: #F7FF00;
+}
+h3 {
+	font-size: 500%;
+	font-family: Deltarune;
+	color: #00c000;
+}
